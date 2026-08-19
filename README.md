@@ -7,3 +7,6 @@ Created a RG using Bash (Terminal) <br/>
 <img src="https://imgur.com/yJWe9XJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/gLf6S3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<br/>
+Deploying the Deliberately-Imperfect Resources
